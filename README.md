@@ -2,6 +2,7 @@
 <h1>Isabel Caliman</h1>
 
 Iniciando carreira
+
 </div>
  
  <div align="center"> 
@@ -10,7 +11,7 @@ Iniciando carreira
   <span></span>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isacali&layout=compact&langs_count=6&theme=dark" />
 </div>
- <br> 
+ <br>
 
 <div align="center"> 
   <div style="display: inline_block"><br>
@@ -28,11 +29,10 @@ Iniciando carreira
     
 </div>
   <br>
-  <a href="https://www.instagram.com/Isacali/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Isacali/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:willian.s.praciano@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/poxaa_bel_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Isabel Caliman/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:isabelcaliman010@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <br/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Isacali&color=yellow" alt="Profile views" /> </p>
 
 ![Snake animation](https://github.com/Isacali/Isacali/blob/output/github-contribution-grid-snake.svg)
-
